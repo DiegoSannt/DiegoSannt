@@ -103,4 +103,17 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 
 
 
+
 <br/><br/>
+
+### 📊 Data Analysis
+
+<p>
+  <img 
+    align="left" 
+    alt="Power Bi" 
+    height="600" 
+    style="padding-right: 20px;" 
+    src="https://i.imgur.com/QZ4d269.jpeg" 
+    
+  />
