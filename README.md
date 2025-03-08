@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Diego dos Santos Virgilio de Souza
+Souza
 
 **`Data Analyst | Prompt Engineer | Visual Designer`**
 
@@ -109,23 +109,24 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
   <img 
     align="left" 
     alt="Power Bi" 
-    height="600" 
+    height="450" 
     style="padding-right: 20px;" 
-    src="https://i.imgur.com/QZ4d269.jpeg" 
+    src="https://i.imgur.com/QZ4d269.jpeg"
+    /> 
     
-<br/><br/>
-
----
 
 ### 🎨 Visual Design
 
 <p>
   <img 
     align="left" 
-    alt="Power Bi" 
-    height="600" 
+    alt="Visual Design" 
+    height="450" 
     style="padding-right: 20px;" 
-    src="https://i.imgur.com/sOYPCJK.jpeg" 
+    src="https://i.imgur.com/sOYPCJK.jpeg"
+    /> 
+    
+
     
 <br/><br/>
 
