@@ -101,9 +101,6 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-
-
 <br/><br/>
 
 ### 📊 Data Analysis
@@ -116,4 +113,19 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
     style="padding-right: 20px;" 
     src="https://i.imgur.com/QZ4d269.jpeg" 
     
-  />
+<br/><br/>
+
+---
+
+### 🎨 Visual Design
+
+<p>
+  <img 
+    align="left" 
+    alt="Power Bi" 
+    height="600" 
+    style="padding-right: 20px;" 
+    src="https://i.imgur.com/sOYPCJK.jpeg" 
+    
+<br/><br/>
+
