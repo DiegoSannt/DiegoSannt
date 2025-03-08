@@ -23,7 +23,7 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 
 ---
 
-### 🤖 Skills & Tools
+### 🤖 Linguagens e Tecnologias
 
 <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
@@ -43,7 +43,7 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
   </div>
   <div style="flex: 1; padding: 10px; text-align: center;">
     <h3>🎨 Visual Design</h3>
-    <img alt="Visual Design" title="Visual Design" width="450px" src="https://i.imgur.com/sOYPCJK.jpeg" />
+    <img alt="Visual Design" title="Visual Design" width="350px" src="https://i.imgur.com/cdBeq2b.jpeg" />
   </div>
 </div>
 
