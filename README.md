@@ -7,11 +7,11 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 **Connect with me:**
 
 <p align="left">
-  <a href="https://github.com/DiegoSaant?tab=repositories&sort=stargazers">
-    <img alt="GitHub Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/DiegoSaant?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
+  <a href="https://github.com/DiegoSannt?tab=repositories&sort=stargazers">
+    <img alt="GitHub Stars" title="GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/DiegoSannt?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" />
   </a>
-  <a href="https://github.com/DiegoSaant?tab=followers">
-    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DiegoSaant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
+  <a href="https://github.com/DiegoSannt?tab=followers">
+    <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/DiegoSannt?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/diegosaant/">
     <img alt="LinkedIn" title="Connect With me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0764C1?style=for-the-badge&logo=linkedin&logoColor=white" />
