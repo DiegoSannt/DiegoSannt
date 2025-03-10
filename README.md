@@ -43,10 +43,10 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <a href="https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c">
-    <img alt="Work Presentation 1" title="Work Presentation 1" width="300px" style="padding: 10px;" src="https://i.imgur.com/SyW80F7.jpeg" />
+    <img alt="Work Presentation 1" title="Work Presentation 1" width="950px" style="padding: 10px;" src="https://i.imgur.com/SyW80F7.jpeg" />
   </a>
   <a href="https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c">
-    <img alt="Work Presentation 2" title="Work Presentation 2" width="300px" style="padding: 10px;" src="https://i.imgur.com/VFVfjgv.jpeg" />
+    <img alt="Work Presentation 2" title="Work Presentation 2" width="950px" style="padding: 10px;" src="https://i.imgur.com/VFVfjgv.jpeg" />
   </a>
 </div>
 
