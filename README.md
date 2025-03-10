@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Diego dos Santos Virgilio de Souza 
+# 👨🏻‍💻 Diego dos Santos Virgilio de Souza
 
 **`Data Analyst | Prompt Engineer | Visual Designer`**
 
@@ -23,7 +23,7 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Technologies & Tools
 
 <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png?20190925171014" />
 <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" />
@@ -34,6 +34,22 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" title="TypeScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<br/><br/>
+
+<!-- New Section: Explore My Work -->
+<p style="text-align: center;">
+  <strong>To deeply explore my work, click here or on the images below!</strong>
+</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <a href="https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c">
+    <img alt="Work Presentation 1" title="Work Presentation 1" width="900px" style="padding: 10px;" src="https://i.imgur.com/SyW80F7.jpeg" />
+  </a>
+  <a href="https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c">
+    <img alt="Work Presentation 2" title="Work Presentation 2" width="900px" style="padding: 10px;" src="https://i.imgur.com/VFVfjgv.jpeg" />
+  </a>
+</div>
+
 <br/><br/>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
@@ -48,5 +64,3 @@ I'm a 23-year-old data enthusiast from Rio de Janeiro, Brazil. Currently studyin
 </div>
 
 <br/><br/>
-
-I'll be posting more of my work soon 🎯
