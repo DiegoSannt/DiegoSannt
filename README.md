@@ -17,7 +17,7 @@
 
 ## Sobre
 
-Sou engenheiro de produção e trabalho com dados há mais de quatro anos. Uso Power BI, SQL, Python e Excel avançado para transformar informação solta em decisão, e uso inteligência artificial para tirar do caminho o trabalho manual e repetitivo. Também crio vídeo, motion graphics e identidade visual com o pacote Adobe.
+Sou engenheiro de produção e trabalho com dados há cinco anos. Uso Power BI, SQL, Python e Excel avançado para transformar informação solta em decisão, e uso inteligência artificial para tirar do caminho o trabalho manual e repetitivo. Também crio vídeo, motion graphics e identidade visual com o pacote Adobe.
 
 Decido com dados e entrego com acabamento.
 
@@ -67,6 +67,10 @@ Meu estúdio para quem quer clareza nas decisões e comunicação com acabamento
   <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
 </p>
 
+## Apresentação
+
+[Ver a apresentação de trabalhos](https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c)
+
 ---
 
 <details>
@@ -74,7 +78,7 @@ Meu estúdio para quem quer clareza nas decisões e comunicação com acabamento
 
 <br />
 
-**Diego dos Santos Virgilio de Souza** is a production engineer from Rio de Janeiro, Brazil, with more than four years of experience in data analysis and business intelligence. He uses Power BI, SQL, Python and advanced Excel to turn scattered information into decisions, and applies AI to remove manual, repetitive work. He also creates video, motion graphics and visual identity with the Adobe suite.
+**Diego dos Santos Virgilio de Souza** is a production engineer from Rio de Janeiro, Brazil, with five years of experience in data analysis and business intelligence. He uses Power BI, SQL, Python and advanced Excel to turn scattered information into decisions, and applies AI to remove manual, repetitive work. He also creates video, motion graphics and visual identity with the Adobe suite.
 
 **DV STUDIO** is his studio for data, AI and creative work:
 
