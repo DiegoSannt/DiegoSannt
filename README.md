@@ -67,9 +67,27 @@ Meu estúdio para quem quer clareza nas decisões e comunicação com acabamento
   <img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="40" height="40" />
 </p>
 
-## Apresentação
+## Projeto em destaque: DV STUDIO Portfólio
 
-[Ver a apresentação de trabalhos](https://www.canva.com/design/DAGhMPhUoL0/WpziE60JR1FTnkgxecuvYA/view?utm_content=DAGhMPhUoL0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5b138c9d9c)
+Cinco projetos feitos de ponta a ponta, com dados fictícios e números medidos: dados (da pasta bagunçada ao painel), dois negócios completos (site, portal do cliente e painel do dono), identidade e site com movimento, vídeo e motion.
+
+<p align="center">
+  <a href="assets/portfolio/DV-STUDIO-Portfolio-PT.pdf"><img src="assets/portfolio/capa-video.jpg" alt="Capa do vídeo de portfólio da DV STUDIO" width="46%" /></a>
+  &nbsp;
+  <a href="assets/portfolio/DV-STUDIO-Portfolio-PT.pdf"><img src="assets/portfolio/site-dv-studio.jpg" alt="Site da DV STUDIO" width="46%" /></a>
+</p>
+<p align="center">
+  <a href="assets/portfolio/DV-STUDIO-Portfolio-PT.pdf"><img src="assets/portfolio/painel-do-dono.jpg" alt="Painel do dono de um negócio fictício" width="46%" /></a>
+  &nbsp;
+  <a href="assets/portfolio/DV-STUDIO-Portfolio-PT.pdf"><img src="assets/portfolio/painel-excel.jpg" alt="Painel no Excel com dados fictícios" width="46%" /></a>
+</p>
+
+- **Dados:** 126 comprovantes lidos com IA, 6 duplicatas encontradas e 0 divergências conferidas; Power Query e painel no Excel.
+- **Dois negócios fictícios:** site, portal do cliente e painel do dono, com 42 testes automatizados.
+- **Marca e site:** 38 pares de cor auditados (WCAG AA), Lighthouse móvel 99 a 100 e 2,5 KB de JavaScript.
+- **Vídeo e motion:** 1min51 em 8 formatos, cortes na batida de 132 BPM.
+
+**[Baixar o portfólio em PDF (PT-BR)](assets/portfolio/DV-STUDIO-Portfolio-PT.pdf)** · **[Download the portfolio (English)](assets/portfolio/DV-STUDIO-Portfolio-EN.pdf)**
 
 ---
 
@@ -87,5 +105,12 @@ Meu estúdio para quem quer clareza nas decisões e comunicação com acabamento
 - **Data and AI (on request):** dashboards, automations and integrations.
 
 [Talk on WhatsApp](https://wa.me/5521986165208?text=Hello%21%20I%20found%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20project.)
+
+
+### Featured project: DV STUDIO Portfolio
+
+Five projects built end to end, with fictional data and measured numbers: data (from a messy folder to a dashboard), two complete businesses (website, customer portal and owner dashboard), brand and website with motion, video and motion design.
+
+**[Download the portfolio (PDF, English)](assets/portfolio/DV-STUDIO-Portfolio-EN.pdf)** · **[Baixar em português](assets/portfolio/DV-STUDIO-Portfolio-PT.pdf)**
 
 </details>
